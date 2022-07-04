@@ -51,6 +51,7 @@ nav {
 
 .cta-text span {
   padding: 0rem 0.4rem;
+  display: block;
   text-shadow: rgba(0, 0, 0, 0.4) 0px 0px 20px;
 }
 
